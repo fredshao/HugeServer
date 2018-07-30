@@ -18,8 +18,6 @@ class Program
     {
         Debug.Init();
 
-        Test();
-
         Task.Factory.StartNew(() =>
         {
             DBEngine.Inst.StartEngine();
@@ -40,7 +38,7 @@ class Program
         }
     }
 
-    private static void Test()
+    private static void TestLog()
     {
         int index = 0;
         while (true)
