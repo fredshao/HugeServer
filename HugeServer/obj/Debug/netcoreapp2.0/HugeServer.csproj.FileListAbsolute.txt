@@ -1,0 +1,11 @@
+D:\Mayopy\HugeServer\HugeServer\bin\Debug\netcoreapp2.0\HugeServer.deps.json
+D:\Mayopy\HugeServer\HugeServer\bin\Debug\netcoreapp2.0\HugeServer.runtimeconfig.json
+D:\Mayopy\HugeServer\HugeServer\bin\Debug\netcoreapp2.0\HugeServer.runtimeconfig.dev.json
+D:\Mayopy\HugeServer\HugeServer\bin\Debug\netcoreapp2.0\HugeServer.dll
+D:\Mayopy\HugeServer\HugeServer\bin\Debug\netcoreapp2.0\HugeServer.pdb
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.csproj.CoreCompileInputs.cache
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.AssemblyInfoInputs.cache
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.AssemblyInfo.cs
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.dll
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.pdb
+D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.csprojResolveAssemblyReference.cache
