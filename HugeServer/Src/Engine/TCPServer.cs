@@ -29,6 +29,14 @@ public class TCPServer
         this.maxListenCount = _maxListenCount;
         this.socketReceiveBufferSize = _socketReceiveBufferSize;
     }
+
+
+
+
+    #region 管理代码
+
     
+
+    #endregion
 
 }

@@ -8,4 +8,3 @@ D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.AssemblyInfoI
 D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.AssemblyInfo.cs
 D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.dll
 D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.pdb
-D:\Mayopy\HugeServer\HugeServer\obj\Debug\netcoreapp2.0\HugeServer.csprojResolveAssemblyReference.cache

@@ -18,6 +18,8 @@ class Program
     {
         Debug.Init();
 
+        TestLog();
+
         Task.Factory.StartNew(() =>
         {
             DBEngine.Inst.StartEngine();
