@@ -16,7 +16,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
+        Debug.Init();
+
+        Test();
 
         Task.Factory.StartNew(() =>
         {
@@ -25,8 +27,6 @@ class Program
             Logic.Inst.StartLogic();
             NetworkEngine.Inst.StartEngine();
         });
-
-        System.Console.WriteLine(DateTime.Now);
 
         RunForLoop();
     }
@@ -37,6 +37,31 @@ class Program
         {
             Thread.Sleep(1000);
             System.Console.WriteLine("Hello");
+        }
+    }
+
+    private static void Test()
+    {
+        int index = 0;
+        while (true)
+        {
+            if(index > 100000)
+            {
+                break;
+            }
+            if(index % 2 == 0)
+            {
+                Debug.Log("hahahahahahahahahahahahahaha - " + index);
+            }
+            if(index % 3 == 0)
+            {
+                Debug.LogError("hahahaahahahahahahahahahahah - " + index);
+            }
+            if(index % 4 == 0)
+            {
+                Debug.LogWarning("hahahaahahahahahahahahahahah - " + index);
+            }
+            index += 1;
         }
     }
 }
